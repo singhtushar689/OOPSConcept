@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Apple apple = new Apple();
+            apple.Taste();
+            //apple.Color();
         }
     }
 }
