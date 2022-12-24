@@ -1,0 +1,21 @@
+{
+  "TypesOfRice": [
+    {
+      "name": "Basmati",
+      "weight": 45,
+      "price": 200
+    },
+
+    {
+      "name": "Hamsa",
+      "weight": 34,
+      "price": 120
+    },
+
+    {
+      "name": "Tukdi",
+      "weight": 24,
+      "price": 20
+    }
+  ]
+}
